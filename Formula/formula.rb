@@ -1,7 +1,7 @@
 class Soh < Formula
   include Language::Python::Virtualenv
 
-  desc "Shiny new formula"
+  desc "Sleight of hand (SOH) command line tool"
   homepage "https://github.com/crflynn/soh"
   url "https://files.pythonhosted.org/packages/f4/5b/f6cb545ad3311d91db5645cfeb90ece48224954f7085056e97ae279473b7/soh-0.1.1.tar.gz"
   sha256 "fbb97b4fd8e04c88bd0ca94bf64a6252c800cff40f566e5d693b97a4a30adce8"
