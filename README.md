@@ -1,5 +1,6 @@
-# homebrew-soh
+# homebrew-formula
 
-Simple repository for the homebrew tap formula for [soh](https://github.com/crflynn/soh).
+Simple repository for the crflynn's homebrew formulae
 
-To install ``soh`` using brew, run ``brew install crflynn/soh/soh``
+Formulae:
+* ``soh``: to install, run ``brew install crflynn/formula/soh``
