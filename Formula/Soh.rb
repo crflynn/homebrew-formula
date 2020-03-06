@@ -5,10 +5,10 @@ class Soh < Formula
 
   if OS.mac?
       url "https://github.com/crflynn/soh/releases/download/#{version}/soh-#{version}-x86_64-apple-darwin.zip"
-      sha256 "11c784c0e2fbad9491023a8a88581b2a41d6c50990dd2766d67044bc47bd7ce3"
+      sha256 "80db18cdec346955a20b605f51a06ef898107f6419dc571ce019ee0ab0bbaaf3"
   elsif OS.linux?
       url "https://github.com/crflynn/soh/releases/download/#{version}/soh-#{version}-x86_64-unknown-linux-musl.zip"
-      sha256 "0ef5068beabfe15ae832467110d280fd16aeda83120260a122c6437d9bd336a9"
+      sha256 "93a6bc3ebce081e97ebc7bafc0e68b8d480accc75bc1a629f9d8d971f872a6c9"
   end
 
   def install
